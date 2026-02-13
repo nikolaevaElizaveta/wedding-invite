@@ -255,7 +255,7 @@ export default function Home() {
           <div className="flex flex-col items-center w-16 shrink-0">
             <div className={`${yesevaOne.className} text-[23px] leading-[1.25] tracking-[0.1em] text-black`}>
               <div>14</div>
-              <div>09</div>
+              <div>08</div>
               <div>26</div>
             </div>
             <div className="w-px h-110 bg-black mt-6"></div>
@@ -278,7 +278,7 @@ export default function Home() {
             </p>
 
             <p className="font-sans font-semibold text-sm tracking-wide text-black my-2">
-              суббота, 14 августа 2026
+              пятница, 14 августа 2026
             </p>
 
             <div className={`${cormorantInfant.className} mt-1 text-[14px] font-light text-black leading-[1.25] mb-3`}>
@@ -296,7 +296,7 @@ export default function Home() {
       {/* Dear guest (уменьшил вертикальные отступы) */}
       <section className="px-8 py-8 text-center">
         <h2 className={`${yesevaOne.className} text-[23px] text-black text-center tracking-snug leading-[1.4] mb-6`}>
-          Дорогой<br /> Гость!
+          Дорогие<br /> Гости!
         </h2>
 
         <p className={`${cormorantInfant.className} mt-0.5 text-[18px] font-light text-black leading-[1.5] px-[18px]`}>
@@ -307,7 +307,7 @@ export default function Home() {
         </p>
 
         <p className="font-sans font-semibold text-[14px] tracking-wide text-black my-6 leading-normal">
-          14.08.2026 в 10:00<br />
+          14.08.2026 в 17:00<br />
           Миллэт<br />
           Проточная улица, 6
         </p>
@@ -373,7 +373,7 @@ export default function Home() {
           ПОДТВЕРЖДЕНИЕ
         </h2>
         <p className={`${cormorantInfant.className} mt-0.5 text-[16px] font-light text-black leading-[1.5] px-[18px]`}>
-          Пожалуйста, подтвердите свое присутствие до 01.01.2025
+          Пожалуйста, подтвердите свое присутствие до 06.06.2026
         </p>
         <div className="flex flex-col items-center">
           <p className={`${greatVibes.className} mt-3 text-[50px] text-black leading-[0.8]`}>Ждем вас на свадьбе!</p>
