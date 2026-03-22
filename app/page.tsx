@@ -333,7 +333,7 @@ export default function Home() {
       </section>
 
       {/* Меню (уменьшил отступы) */}
-      <section className="px-8 py-6 text-center">
+      {/* <section className="px-8 py-6 text-center">
         <h2 className={`${yesevaOne.className} text-[23px] text-black text-center tracking-snug leading-[1.4] mb-6`}>
           МЕНЮ
         </h2>
@@ -341,7 +341,7 @@ export default function Home() {
           Меню разнообразно, поэтому сообщите нам заранее, если у вас есть какие-либо предпочтения или диетические ограничения. 
           После подтверждения вы сможете пройти опрос о своих вкусовых предпочтениях и напитках.
         </p>
-      </section>
+      </section> */}
 
       {/* Пожелания по подаркам */}
       <section className="px-8 py-12 text-center">
@@ -369,19 +369,19 @@ export default function Home() {
 
       {/* Подтверждение (поменял py, чтобы между ним и формой было ближе) */}
       <section className="px-8 py-8 text-center">
-        <h2 className={`${yesevaOne.className} text-[23px] text-black text-center tracking-snug leading-[1.4] mb-4`}>
+        {/* <h2 className={`${yesevaOne.className} text-[23px] text-black text-center tracking-snug leading-[1.4] mb-4`}>
           ПОДТВЕРЖДЕНИЕ
         </h2>
         <p className={`${cormorantInfant.className} mt-0.5 text-[16px] font-light text-black leading-[1.5] px-[18px]`}>
           Пожалуйста, подтвердите свое присутствие до 06.06.2026
-        </p>
+        </p> */}
         <div className="flex flex-col items-center">
           <p className={`${greatVibes.className} mt-3 text-[50px] text-black leading-[0.8]`}>Ждем вас на свадьбе!</p>
         </div>
       </section>
 
       {/* RSVP форма (сниженный pb чтобы не было лишнего отступа) */}
-      <RSVPForm />
+      {/* <RSVPForm /> */}
 
       {/* Палитра */}
       <section className="px-8 py-14 text-center bg-[#F7F7F7] rounded-3xl mx-4">
